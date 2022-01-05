@@ -6,20 +6,22 @@
 
 .flex-container {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   height: 100vh;
 }
 .item {
   transition: all 0.5s ease;
-  flex: 1;
+  flex: 1 200px;
   padding: 15px;
   margin: 5px;
-  background-color: #333;
+  background-color: #111;
   color: #fff;
   font-size: 20px;
 }
 .item:hover {
   transition: all 0.5s ease;
-  flex: 2;
-  background-color: red;
+  flex: 2 300px;
+  background: url("https://i.insider.com/5e820b04671de06758588fb8");
+  background-size: cover;
+  background-position: center;
 }
