@@ -12,9 +12,9 @@ This large-scale IT event will be held online on January 4-8 at the Muhammad Al-
 - [ ] - .NET
 - [ ] - GGraphic Design (Adobe Photoshop, Sketchbook)
 
-Take your time and sign up now: https://digitalgeneration.uz
+Take your time and sign up now: [here](https://digitalgeneration.uz)
 
-# Community group on telegram: https://t.me/+pq2e6yKgRDRmMTU6
+## Community group on [Telegram](https://t.me/+pq2e6yKgRDRmMTU6)
 
 ## Frontend Development
 
@@ -31,10 +31,11 @@ Take your time and sign up now: https://digitalgeneration.uz
 
 - [x] Box Model
 - [x] Positioning
-  - [x] - https://developer.mozilla.org/en-US/docs/Web/CSS/position
+  - [x] - [CSS Position docs](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [x] Flexbox
-  - [x] https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
-- [ ] Grid
+  - [x] [FlexBox docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [x] Grid
+  - [x] [Grid Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout#fixed_and_flexible_track_sizes)
 - [ ] Using Variables in CSS
 - [ ] Introduction to SASS
 
