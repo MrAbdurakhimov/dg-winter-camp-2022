@@ -24,12 +24,12 @@ Take your time and sign up now: https://digitalgeneration.uz
 - [x] Introduction to the web
 - [x] Introduction to how web works
 - [x] Introduction to HTML/CSS
-- [ ] Box Model
-- [ ] Styling through Figma
+- [x] Box Model
+- [x] Styling through Figma
 
 ### Day 2
 
-- [ ] Box Model
+- [x] Box Model
 - [ ] Positioning
 - [ ] Flexbox
 - [ ] Grid
