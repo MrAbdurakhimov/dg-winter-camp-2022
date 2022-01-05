@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 620px;
+  background-color: yellow;
+}
+.position {
+  background: black;
+  color: white;
+  position: sticky;
+  /* left: 50px; */
+  top: 50px;
+  padding: 15px;
+  font-size: 24px;
+}

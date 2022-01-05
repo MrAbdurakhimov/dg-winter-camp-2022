@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.boxModel {
+  display: inline-block;
+  background: #000;
+  color: #fff;
+  border: 5px solid red;
+  padding: 20px;
+  height: 120px;
+  width: 33%;
+  font-size: 25px;
+}

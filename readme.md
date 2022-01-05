@@ -30,7 +30,8 @@ Take your time and sign up now: https://digitalgeneration.uz
 ### Day 2
 
 - [ ] Box Model
-- [ ] Positioning
+- [ ] Positioning 
+  - [ ] - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 - [ ] Flexbox
 - [ ] Grid
 - [ ] Using Variables in CSS
