@@ -32,7 +32,8 @@ Take your time and sign up now: https://digitalgeneration.uz
 - [x] Box Model
 - [x] Positioning
   - [x] - https://developer.mozilla.org/en-US/docs/Web/CSS/position
-- [ ] Flexbox
+- [x] Flexbox
+  - [x] https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 - [ ] Grid
 - [ ] Using Variables in CSS
 - [ ] Introduction to SASS
