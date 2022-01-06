@@ -36,12 +36,12 @@ Take your time and sign up now: [here](https://digitalgeneration.uz)
   - [x] [FlexBox docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [x] Grid
   - [x] [Grid Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout#fixed_and_flexible_track_sizes)
-- [ ] Using Variables in CSS
-- [ ] Introduction to SASS
+- [x] Using Variables in CSS
+- [x] Introduction to SASS
 
 ### Day 3
 
-- [ ] Introduction to JavaScript
+- [x] Introduction to JavaScript
 - [ ] JavaScript Basics
 - [ ] JavaScript in Browser
 - [ ] Intorduction to the DOM and Event listeners
