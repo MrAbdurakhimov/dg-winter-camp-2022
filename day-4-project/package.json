@@ -10,7 +10,7 @@
   "author": "Mukhammadyusuf Abdurakhimov",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.1.1",
     "tg-forms": "^0.1.2"
   }
 }
