@@ -32,7 +32,7 @@ const users = [
 
 const app = document.getElementById("app");
 
-for (let i = users.length - 1; i >= 0; i--) {
+for (let i = 0; i < users.length; i++) {
   const element = document.createElement("div");
   if (checkUser(users[i])) {
     element.classList.add("user");
@@ -67,3 +67,8 @@ function checkUser(user) {
     return false;
   }
 }
+
+const arr2 = ["Arr1", "Arr2", "Arr3", "Arr4"];
+arr2.forEach((element) => {
+  console.log(element);
+});
