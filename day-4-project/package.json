@@ -4,11 +4,13 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel index.html"
   },
   "author": "Mukhammadyusuf Abdurakhimov",
   "license": "ISC",
   "dependencies": {
+    "parcel": "^1.12.4",
     "tg-forms": "^0.1.2"
   }
 }
